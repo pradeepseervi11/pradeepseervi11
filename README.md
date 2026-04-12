@@ -1,25 +1,55 @@
-<h1 align="center">Hi 👋, I'm Pradeep Seervi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Pradeep Seervi</h1>
+  <p><strong>Frontend Developer</strong> · India · MERN Stack · Currently learning Node.js</p>
+  <a href="https://www.linkedin.com/in/pradeepseervi11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/pradeep.seervi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="mailto:pradeepseervi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeepseervi11" alt="pradeepseervi11" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Classup.org](https://classup.org/en/home/)
+### 🔭 What I'm up to
+- 💼 Working on **[Classup.org](https://classup.org/en/home/)** — building modern ed-tech experiences
+- 🌱 Deepening backend skills with **Node.js**
+- 🤝 Open to collaborate on **[DuctSizerPro](https://www.ductsizerpro.com)** — engineering calculator tools
+- 💬 Ask me about **React, Next.js, Express, MongoDB**
 
-- 🌱 I’m currently learning **Node.js**
+---
 
-- 👯 I’m looking to collaborate on [Mechinical Calculator](https://www.ductsizerpro.com)
+### 🛠 Tech Stack
 
-- 💬 Ask me about **react.js, next.js, express.js, mongodb**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 📫 How to reach me **pradeepseervi11@gmail.com**
+---
+### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeepseervi11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeepseervi11/" height="30" width="40" /></a>
-<a href="https://instagram.com/pradeep.seervi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep.seervi" height="30" width="40" /></a>
-</p>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepseervi11&layout=compact&hide_border=true&theme=default" />
+<img src="https://github-profile-trophy.vercel.app/?username=pradeepseervi11&no-bg=true&no-frame=true&column=4" />
+ -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepseervi11&show_icons=true&locale=en&layout=compact" alt="pradeepseervi11" /></p>
+<!-- Top Languages (Stable Mirror) -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradeepseervi11&layout=compact&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+<!-- Streak Stats (More Reliable) -->
+<img 
+  src="https://streak-stats.demolab.com?user=pradeepseervi11&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+</div>
