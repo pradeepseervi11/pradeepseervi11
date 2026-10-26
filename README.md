@@ -32,24 +32,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+
 ### 📊 GitHub Stats
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeepseervi11&layout=compact&hide_border=true&theme=default" />
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepseervi11&no-bg=true&no-frame=true&column=4" />
- -->
-
 <div align="center">
-
-<!-- Top Languages (Stable Mirror) -->
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradeepseervi11&layout=compact&theme=tokyonight&hide_border=true" 
-  height="160"
-/>
-
-<!-- Streak Stats (More Reliable) -->
-<img 
-  src="https://streak-stats.demolab.com?user=pradeepseervi11&theme=tokyonight&hide_border=true" 
-  height="160"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=pradeepseervi11&theme=tokyonight&hide_border=true" height="160" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepseervi11&theme=tokyonight" height="160" />
 </div>
